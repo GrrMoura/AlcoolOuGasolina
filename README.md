@@ -1,16 +1,10 @@
-# aog
+# Ácool ou Gasolina
 
-A new Flutter project.
+Um projeto em flutter.
 
-## Getting Started
+# Tela Principal
+![TelaPrincipal](https://user-images.githubusercontent.com/60243865/147493727-aa7e78b3-564f-4479-9dba-253aa814f8fe.jpg)
 
-This project is a starting point for a Flutter application.
+# Tela Final
+![TelaConcluida](https://user-images.githubusercontent.com/60243865/147493729-b3dc22aa-fa49-4234-9935-df8601bd19dd.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
